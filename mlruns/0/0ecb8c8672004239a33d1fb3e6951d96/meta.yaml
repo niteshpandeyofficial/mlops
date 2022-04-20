@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/mlruns/0/0ecb8c8672004239a33d1fb3e6951d96/artifacts
+end_time: 1650429271772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 0ecb8c8672004239a33d1fb3e6951d96
+run_uuid: 0ecb8c8672004239a33d1fb3e6951d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1650429271687
+status: 3
+tags: []
+user_id: nites
